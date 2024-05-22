@@ -1,10 +1,10 @@
 # SMART HOMIE NODE MCU ESP8266
 Smart Homie merupakan sebuah IOT bertemakan rumah pintar yang dapat mengontrol lampu rumah untuk dinyala matikan dan membuka tutup pagar menggunakan smartphone yang terhubung kejaringan wifi modul board. Untuk board yang digunakan pada project ini adalah NodeMCU ESP8266 yang telah memiliki modul wifi.
-##Alat:
+## Alat:
 - cutter
 - lem
 - penggaris
-##Bahan
+## Bahan
 - Module WIFI Node MCU ESP 8266
 - servo
 - lampu LED
